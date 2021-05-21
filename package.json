@@ -1,0 +1,11 @@
+{
+  "name": "photo-filter",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
